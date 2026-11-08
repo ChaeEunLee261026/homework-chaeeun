@@ -1238,4 +1238,5 @@ result3 = result1 ? a + b : a - b
 거짓이면 : 뒤의 값을 선택
 result1의 값이 true이므로 a + b를 선택
 따라서 35 + 20 = 55가 되어 result3에는 55가 저장됨 */
+console.log(""); // 빈 줄 추가하기
 
